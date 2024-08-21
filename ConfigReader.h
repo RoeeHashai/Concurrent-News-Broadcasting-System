@@ -6,6 +6,8 @@
 #include <string>
 #include <vector>
 #include <sstream>
+#include <limits>
+#include <memory>
 
 class ConfigReader
 {
