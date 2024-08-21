@@ -68,12 +68,3 @@ queue size = 3
 
 ...
 ```
-
-## Contributions and Feedback
-Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
-
-## License
-This project is released under the MIT License. Details can be found in the `LICENSE` file.
-
-## Acknowledgements
-Thanks to everyone who contributed to the conceptualization and realization of this project. Your insights and feedback were invaluable.
