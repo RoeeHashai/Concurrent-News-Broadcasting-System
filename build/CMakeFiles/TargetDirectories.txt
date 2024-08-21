@@ -1,3 +1,0 @@
-/Users/roeehashai/Desktop/projects/OperatingSystems/os_exercise_3/build/CMakeFiles/ex3.dir
-/Users/roeehashai/Desktop/projects/OperatingSystems/os_exercise_3/build/CMakeFiles/edit_cache.dir
-/Users/roeehashai/Desktop/projects/OperatingSystems/os_exercise_3/build/CMakeFiles/rebuild_cache.dir
